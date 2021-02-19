@@ -97,7 +97,7 @@
     </div>
   </div>
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Copyright © 2021 - ONLINE FOOD DELIVERY | <a href="https://localhost/fos/" >OFD</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Copyright © 2021 - ONLINE FOOD DELIVERY | <a href=" http://localhost/fos/" >OFD</a></div></div>
         </footer>
         
        <?php include('footer.php') ?>
