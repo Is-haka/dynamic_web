@@ -3,6 +3,12 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title><?php echo $_SESSION['setting_name'] ?></title>
+
+                 <!-- //New boostrap 5 links (CDN LINKS)  -->
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+
+
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.min.css">
@@ -20,8 +26,3 @@
         <script src="admin/assets/vendor/jquery/jquery.min.js"></script>
         <script src="admin/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
         <script type="text/javascript" src="./bootstrap/js/bootstrap.min.js"></script>
-
-
-<!-- //New boostrap 5 links (CDN LINKS)  -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
